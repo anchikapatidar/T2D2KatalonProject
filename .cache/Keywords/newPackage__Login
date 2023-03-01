@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B2D56BA63F1B5CE85D282D2EEA8157CD",
+  "keywordClasses": [
+    {
+      "name": "newPackage.general",
+      "keywordMethods": [
+        {
+          "name": "refreshBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Reset Selection_pi pi-upload icon trash-icon</name>
+   <tag></tag>
+   <elementGuidId>0d1cc463-5ecb-4e6d-aa86-1850ff2c8c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-upload.icon.trash-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='upload']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>da6bdadf-baae-404f-becb-bbe082731545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-upload icon trash-icon</value>
+      <webElementGuid>40b088a1-fe5b-4d5c-9896-e5bba36f34d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upload&quot;)/i[@class=&quot;pi pi-upload icon trash-icon&quot;]</value>
+      <webElementGuid>d996b1ca-bb13-447c-85c9-c991d285ae89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='upload']/i</value>
+      <webElementGuid>b540ea96-3662-449f-86a6-3938b69c3772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]/i</value>
+      <webElementGuid>f3c7efe7-eed5-45b7-98a7-70c6a4f7124e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

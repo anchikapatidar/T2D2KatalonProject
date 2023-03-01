@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login page</description>
+   <name>Test1_Login_old</name>
+   <tag>@regression, @sanity</tag>
+   <comment></comment>
+   <testCaseGuid>42caa31a-e727-4e14-b925-b70210026cf7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Upload geotag csv_m-auto</name>
+   <tag></tag>
+   <elementGuidId>021362cf-a75b-4f91-9769-763956f31be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='file-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.m-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a0a28c4f-ac9a-4820-b520-ad96f6886e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-auto</value>
+      <webElementGuid>472bd309-36f6-487c-b24a-317d422f884a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/layout/images/share-post.svg</value>
+      <webElementGuid>23277302-1f5d-414c-8711-48d392d48956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/app-root[1]/app-outer-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper&quot;]/div[@class=&quot;md:flex main-layout&quot;]/div[@class=&quot;main-content&quot;]/app-project-layout[@class=&quot;ng-tns-c213-15 ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container ng-tns-c213-15&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content overflow-hidden&quot;]/app-tools[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container fix-height-container-class&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content mb overflow-hidden&quot;]/app-view-geotagger[@class=&quot;ng-star-inserted&quot;]/app-upload-geotag[1]/p-dialog[@class=&quot;p-element ng-tns-c93-21 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c93-21 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c93-21 p-dialog p-component p-dialog-draggable p-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c93-21 p-dialog-content&quot;]/div[@class=&quot;flex-auto ng-tns-c93-21&quot;]/div[@class=&quot;center rounded border h-48 w-full hover:bg-primary-light trans-ease-out&quot;]/div[@class=&quot;add-project-img-box disactive ng-star-inserted&quot;]/div[@class=&quot;center&quot;]/img[@class=&quot;m-auto&quot;]</value>
+      <webElementGuid>00d19666-73b1-4473-ade0-1da979cee315</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/img</value>
+      <webElementGuid>9621e9ab-d822-4410-9039-f6905449c305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/layout/images/share-post.svg']</value>
+      <webElementGuid>82b990bb-67a3-4b28-94c2-40abdee98249</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
